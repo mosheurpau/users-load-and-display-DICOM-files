@@ -1,9 +1,12 @@
-# DICOM Viewer
+# DICOM Viewer with React and Cornerstone.js
 
-This project is a simple DICOM viewer built using React and Cornerstone.js. It allows users to load and display DICOM files from their local file system.
+This project is a simple DICOM viewer built with React and Cornerstone.js. It allows users to load and display DICOM files from your local file system, and provides functionalities for zooming, rotating, inverting, and resetting the viewport.
 
 ## Features
 
-- Load DICOM files from the local file system.
-- Display DICOM images using Cornerstone.js.
-- Basic user interface for selecting and viewing DICOM files.
+- Load and display DICOM files
+- Zoom in and out
+- Apply random zoom
+- Rotate image by 30 degrees
+- Invert image colors
+- Reset viewport to default settings
